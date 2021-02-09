@@ -6,6 +6,6 @@ TUTUBE
 cancer
 me duele la tula
 
-ejemplo de merge a master
+conflicto en cabecera
 
 me cumeo con el am
