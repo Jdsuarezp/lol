@@ -6,11 +6,7 @@ TUTUBE
 cancer
 me duele la tula
 
-<<<<<<< HEAD
-conflicto en master
-=======
-conflicto en cabecera
->>>>>>> cabecera
+resuelto chaval
 
 me cumeo con el am
 
